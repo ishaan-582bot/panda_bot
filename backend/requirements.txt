@@ -1,0 +1,46 @@
+# FastAPI and web framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Data processing
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Document parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+pandas==2.1.4
+openpyxl==3.1.2
+
+# OCR
+pytesseract==0.3.10
+Pillow==10.2.0
+
+# Vector embeddings and search
+numpy==1.26.3
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+
+# LLM
+openai==1.10.0
+
+# Utilities
+python-magic==0.4.27
+tiktoken==0.5.2
+tenacity==8.2.3
+
+# Security
+cryptography==42.0.0
+
+# Testing
+pytest==7.4.4
+httpx==0.26.0
+2.3
+psutil==5.9.8  # For memory monitoring
+
+# Security
+cryptography==42.0.0
+
+# Testing
+pytest==7.4.4
